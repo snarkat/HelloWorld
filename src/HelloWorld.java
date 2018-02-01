@@ -3,7 +3,8 @@
  */
 
 /**
- * @author Sara
+ * @author Sara Snark
+ * @version 1.0.0
  *
  */
 public class HelloWorld {
